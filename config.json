@@ -1,0 +1,12 @@
+{
+  "default_select_all": true,
+  "default_delete_after_convert": true,
+  "enable_prefix_classify": true,
+  "default_scan_dir": "C:\\Users\\陈友依\\Desktop",
+  "default_target_dir": "D:\\歌手",
+  "delete_song_folder_after_move": true,
+  "path_mappings": {
+    "镜音": "日语歌/镜音",
+    "初音": "日语歌/初音"
+  }
+}
